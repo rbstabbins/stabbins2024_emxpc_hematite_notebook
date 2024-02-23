@@ -1,0 +1,8 @@
+/.vscode
+**/.DS_Store
+/data/instruments/*
+!data/instruments/README.md
+/data/spectral_library/*
+!data/spectral_library/README.md
+/projects/*
+!projects/README.md

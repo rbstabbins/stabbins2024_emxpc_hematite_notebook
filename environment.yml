@@ -1,0 +1,9 @@
+name: stabbins2024_exmpc_hematite_notebook
+channels:
+  - defaults
+dependencies:
+  - pip
+  - python==3.10.8
+  - ipykernel
+  - pip:
+    - sptk==0.1
