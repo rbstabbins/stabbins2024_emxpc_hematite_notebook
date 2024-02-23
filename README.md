@@ -5,6 +5,8 @@
  <img max-width=960px src="https://github.com/rbstabbins/stabbins2024_emxpc_hematite_notebook/blob/main/notebook_title.gif?raw=true" alt="Project logo"></a>
 </p>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10697557.svg)](https://doi.org/10.5281/zenodo.10697557)
+
 ## Table of Contents
 
 - [About](#about)
