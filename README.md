@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img max-width=960px src="notebook_title.gif" alt="Project logo"></a>
+ <img max-width=960px src="https://github.com/rbstabbins/stabbins2024_emxpc_hematite_notebook/blob/main/notebook_title.gif?raw=true" alt="Project logo"></a>
 </p>
 
 ## Table of Contents
