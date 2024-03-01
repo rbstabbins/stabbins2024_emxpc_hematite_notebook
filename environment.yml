@@ -1,4 +1,4 @@
-name: stabbins2024_exmpc_hematite_notebook
+name: cassis_sptk
 channels:
   - defaults
 dependencies:
